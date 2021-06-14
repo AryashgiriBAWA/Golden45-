@@ -1,0 +1,17 @@
+task 1 : create a canvas and load the image as a bg
+
+task 2 : try to preload all the images required for the game
+
+task 3: crop all the images required and add the animation to your hero
+
+task4: create a home page and try navigating to the next screen
+
+next....
+
+task5: in preload function load imgs for up down right left
+
+task6:give the controls to move the character with up down right and left arrow
+
+task7:create edges
+
+task8:preload all the image and animation which is required
